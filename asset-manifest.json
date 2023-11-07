@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/myFirsBackend/static/css/main.f0fe7620.css",
+    "main.js": "/myFirsBackend/static/js/main.a7a8d07b.js",
+    "static/js/787.6ac643bb.chunk.js": "/myFirsBackend/static/js/787.6ac643bb.chunk.js",
+    "index.html": "/myFirsBackend/index.html",
+    "main.f0fe7620.css.map": "/myFirsBackend/static/css/main.f0fe7620.css.map",
+    "main.a7a8d07b.js.map": "/myFirsBackend/static/js/main.a7a8d07b.js.map",
+    "787.6ac643bb.chunk.js.map": "/myFirsBackend/static/js/787.6ac643bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0fe7620.css",
+    "static/js/main.a7a8d07b.js"
+  ]
+}
